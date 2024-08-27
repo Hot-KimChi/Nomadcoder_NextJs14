@@ -10,15 +10,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/layout.js"
     ],
-    "/about-us/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/about-us/page.js"
-    ],
     "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
+    ],
+    "/about-us/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/about-us/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
