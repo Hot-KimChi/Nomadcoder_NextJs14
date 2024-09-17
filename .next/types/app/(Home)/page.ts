@@ -1,8 +1,8 @@
-// File: D:\GitHub\Nomadcoder_NextJs14\app\about-us\page.js
-import * as entry from '../../../../app/about-us/page.js'
+// File: D:\GitHub\Nomadcoder_NextJs14\app\(Home)\page.js
+import * as entry from '../../../../app/(Home)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
-type TEntry = typeof import('../../../../app/about-us/page.js')
+type TEntry = typeof import('../../../../app/(Home)/page.js')
 
 // Check that the entry is a valid entry
 checkFields<Diff<{
