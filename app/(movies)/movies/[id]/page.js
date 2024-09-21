@@ -16,9 +16,14 @@ async function getVideos(id) {
 }
 
 export default async function MoveDetail({params: {id}}) {
+    console.log('==============');
     console.log('start fetching');
-    const movie = await getMovie(id);
-    const videos = await getVideos(id);
+    // [Serial sequence]
+    // const movie = await getMovie(id);
+    // const videos = await getVideos(id);
+    
+    // [Parallel sequence]
+    const [movie, videos] = await Promise.all([getMovie(id), getVideos(id)])
     console.log('end fetching');
     return <h1> {movie.title} </h1>;
 }
