@@ -100,6 +100,16 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Capp%5C%5C(Home)%5C%5Cpage.js%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!*******************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Capp%5C%5C(Home)%5C%5Cpage.js%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \*******************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/(Home)/page.js */ \"(ssr)/./app/(Home)/page.js\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMkQlM0ElNUMlNUNHaXRIdWIlNUMlNUNOb21hZGNvZGVyX05leHRKczE0JTVDJTVDYXBwJTVDJTVDKEhvbWUpJTVDJTVDcGFnZS5qcyUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZzZXJ2ZXI9dHJ1ZSEiLCJtYXBwaW5ncyI6IkFBQUEsb0pBQTBGIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbm9tYWRjb2Rlcl9uZXh0anMxNC8/Yzc1NiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkQ6XFxcXEdpdEh1YlxcXFxOb21hZGNvZGVyX05leHRKczE0XFxcXGFwcFxcXFwoSG9tZSlcXFxccGFnZS5qc1wiKTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Capp%5C%5C(Home)%5C%5Cpage.js%22%2C%22ids%22%3A%5B%5D%7D&server=true!\n");
+
+/***/ }),
+
 /***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Ccomponents%5C%5Cnavigation.js%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true!":
 /*!*********************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Ccomponents%5C%5Cnavigation.js%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true! ***!
@@ -120,16 +130,6 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Cnode_modules%5C%5Cnext%5C%5Cdist%5C%5Cclient%5C%5Clink.js%22%2C%22ids%22%3A%5B%22*%22%5D%7D&server=true!":
-/*!*******************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Cnode_modules%5C%5Cnext%5C%5Cdist%5C%5Cclient%5C%5Clink.js%22%2C%22ids%22%3A%5B%22*%22%5D%7D&server=true! ***!
-  \*******************************************************************************************************************************************************************************************************************************************************************************/
-/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
-
-eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__webpack_require__, /*! ./node_modules/next/dist/client/link.js */ \"(ssr)/./node_modules/next/dist/client/link.js\", 23));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMkQlM0ElNUMlNUNHaXRIdWIlNUMlNUNOb21hZGNvZGVyX05leHRKczE0JTVDJTVDbm9kZV9tb2R1bGVzJTVDJTVDbmV4dCU1QyU1Q2Rpc3QlNUMlNUNjbGllbnQlNUMlNUNsaW5rLmpzJTIyJTJDJTIyaWRzJTIyJTNBJTVCJTIyKiUyMiU1RCU3RCZzZXJ2ZXI9dHJ1ZSEiLCJtYXBwaW5ncyI6IkFBQUEsZ01BQStHIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vbm9tYWRjb2Rlcl9uZXh0anMxNC8/MGZiYyJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiAqLyBcIkQ6XFxcXEdpdEh1YlxcXFxOb21hZGNvZGVyX05leHRKczE0XFxcXG5vZGVfbW9kdWxlc1xcXFxuZXh0XFxcXGRpc3RcXFxcY2xpZW50XFxcXGxpbmsuanNcIik7XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22D%3A%5C%5CGitHub%5C%5CNomadcoder_NextJs14%5C%5Cnode_modules%5C%5Cnext%5C%5Cdist%5C%5Cclient%5C%5Clink.js%22%2C%22ids%22%3A%5B%22*%22%5D%7D&server=true!\n");
-
-/***/ }),
-
 /***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true!":
 /*!******************************************************************************************************!*\
   !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true! ***!
@@ -137,6 +137,28 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 /***/ (() => {
 
 
+
+/***/ }),
+
+/***/ "(ssr)/./app/(Home)/page.js":
+/*!****************************!*\
+  !*** ./app/(Home)/page.js ***!
+  \****************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ HomePage)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ \"(ssr)/./node_modules/next/dist/api/link.js\");\n/* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../config */ \"(ssr)/./app/config.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! react */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_3__);\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\n\n\nasync function HomePage() {\n    const [movies, setMovies] = (0,react__WEBPACK_IMPORTED_MODULE_3__.useState)();\n    const getMovies = async ()=>{\n        const response = await fetch(\"https://nomad-movies.nomadcoders.workers.dev/movies\");\n        const json = await response.json();\n        setMovies(json);\n    };\n    (0,react__WEBPACK_IMPORTED_MODULE_3__.useEffect)(()=>{\n        getMovies();\n    }, []);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: JSON.stringify(movies)\n    }, void 0, false, {\n        fileName: \"D:\\\\GitHub\\\\Nomadcoder_NextJs14\\\\app\\\\(Home)\\\\page.js\",\n        lineNumber: 17,\n        columnNumber: 9\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvKEhvbWUpL3BhZ2UuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7QUFDNkI7QUFDTTtBQUNTO0FBRTdCLGVBQWVJO0lBQzFCLE1BQU0sQ0FBQ0MsUUFBUUMsVUFBVSxHQUFHSCwrQ0FBUUE7SUFDcEMsTUFBTUksWUFBWTtRQUNkLE1BQU1DLFdBQVcsTUFBTUMsTUFBTTtRQUM3QixNQUFNQyxPQUFPLE1BQU1GLFNBQVNFLElBQUk7UUFDaENKLFVBQVVJO0lBQ2Q7SUFDQVIsZ0RBQVNBLENBQUM7UUFDTks7SUFDSixHQUFHLEVBQUU7SUFDTCxxQkFDSSw4REFBQ0k7a0JBQ0lDLEtBQUtDLFNBQVMsQ0FBQ1I7Ozs7OztBQUc1QiIsInNvdXJjZXMiOlsid2VicGFjazovL25vbWFkY29kZXJfbmV4dGpzMTQvLi9hcHAvKEhvbWUpL3BhZ2UuanM/NzY0ZCJdLCJzb3VyY2VzQ29udGVudCI6WyJcInVzZSBjbGllbnRcIlxyXG5pbXBvcnQgTGluayBmcm9tIFwibmV4dC9saW5rXCI7XHJcbmltcG9ydCB7IEFQSV9VUkwgfSBmcm9tICcuLi9jb25maWcnXHJcbmltcG9ydCB7IHVzZUVmZmVjdCwgdXNlU3RhdGUgfSBmcm9tIFwicmVhY3RcIjtcclxuXHJcbmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIEhvbWVQYWdlKCl7XHJcbiAgICBjb25zdCBbbW92aWVzLCBzZXRNb3ZpZXNdID0gdXNlU3RhdGUoKTtcclxuICAgIGNvbnN0IGdldE1vdmllcyA9IGFzeW5jKCkgPT4ge1xyXG4gICAgICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goXCJodHRwczovL25vbWFkLW1vdmllcy5ub21hZGNvZGVycy53b3JrZXJzLmRldi9tb3ZpZXNcIik7XHJcbiAgICAgICAgY29uc3QganNvbiA9IGF3YWl0IHJlc3BvbnNlLmpzb24oKTtcclxuICAgICAgICBzZXRNb3ZpZXMoanNvbik7XHJcbiAgICB9XHJcbiAgICB1c2VFZmZlY3QoKCkgPT4ge1xyXG4gICAgICAgIGdldE1vdmllcygpO1xyXG4gICAgfSwgW10pO1xyXG4gICAgcmV0dXJuIChcclxuICAgICAgICA8ZGl2PlxyXG4gICAgICAgICAgICB7SlNPTi5zdHJpbmdpZnkobW92aWVzKX1cclxuICAgICAgICA8L2Rpdj5cclxuICAgICk7ICAgIFxyXG59Il0sIm5hbWVzIjpbIkxpbmsiLCJBUElfVVJMIiwidXNlRWZmZWN0IiwidXNlU3RhdGUiLCJIb21lUGFnZSIsIm1vdmllcyIsInNldE1vdmllcyIsImdldE1vdmllcyIsInJlc3BvbnNlIiwiZmV0Y2giLCJqc29uIiwiZGl2IiwiSlNPTiIsInN0cmluZ2lmeSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./app/(Home)/page.js\n");
+
+/***/ }),
+
+/***/ "(ssr)/./app/config.js":
+/*!***********************!*\
+  !*** ./app/config.js ***!
+  \***********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   API_URL: () => (/* binding */ API_URL)\n/* harmony export */ });\n// app/config.js\nconst API_URL = \"https://nomad-movies.nomadcoders.workers.dev/movies\";\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvY29uZmlnLmpzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxnQkFBZ0I7QUFDVCxNQUFNQSxVQUFVLHNEQUFzRCIsInNvdXJjZXMiOlsid2VicGFjazovL25vbWFkY29kZXJfbmV4dGpzMTQvLi9hcHAvY29uZmlnLmpzPzU1YzAiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gYXBwL2NvbmZpZy5qc1xyXG5leHBvcnQgY29uc3QgQVBJX1VSTCA9IFwiaHR0cHM6Ly9ub21hZC1tb3ZpZXMubm9tYWRjb2RlcnMud29ya2Vycy5kZXYvbW92aWVzXCI7XHJcbiJdLCJuYW1lcyI6WyJBUElfVVJMIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./app/config.js\n");
 
 /***/ }),
 
@@ -169,18 +191,25 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ HomePage)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ \"(rsc)/./node_modules/next/dist/api/link.js\");\n/* harmony import */ var _config__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../config */ \"(rsc)/./app/config.js\");\n\n\n\nasync function getMovies() {\n    //await new Promise((resolve) => setTimeout(resolve, 1000));\n    const response = await fetch(_config__WEBPACK_IMPORTED_MODULE_2__.API_URL);\n    const json = await response.json();\n    return json;\n}\nasync function HomePage() {\n    const movies = await getMovies();\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        children: movies.map((movie)=>/*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"li\", {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(next_link__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {\n                    href: `/movies/${movie.id}`,\n                    children: [\n                        \" \",\n                        movie.title\n                    ]\n                }, void 0, true, {\n                    fileName: \"D:\\\\GitHub\\\\Nomadcoder_NextJs14\\\\app\\\\(Home)\\\\page.js\",\n                    lineNumber: 17,\n                    columnNumber: 17\n                }, this)\n            }, movie.id, false, {\n                fileName: \"D:\\\\GitHub\\\\Nomadcoder_NextJs14\\\\app\\\\(Home)\\\\page.js\",\n                lineNumber: 16,\n                columnNumber: 13\n            }, this))\n    }, void 0, false, {\n        fileName: \"D:\\\\GitHub\\\\Nomadcoder_NextJs14\\\\app\\\\(Home)\\\\page.js\",\n        lineNumber: 14,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvKEhvbWUpL3BhZ2UuanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7O0FBQTZCO0FBQ007QUFFbkMsZUFBZUU7SUFDWCw0REFBNEQ7SUFDNUQsTUFBTUMsV0FBVyxNQUFNQyxNQUFNSCw0Q0FBT0E7SUFDcEMsTUFBTUksT0FBTyxNQUFNRixTQUFTRSxJQUFJO0lBQ2hDLE9BQU9BO0FBQ1g7QUFFZSxlQUFlQztJQUMxQixNQUFNQyxTQUFTLE1BQU1MO0lBQ3JCLHFCQUNBLDhEQUFDTTtrQkFDSUQsT0FBT0UsR0FBRyxDQUFDLENBQUNDLHNCQUNULDhEQUFDQzswQkFDRyw0RUFBQ1gsaURBQUlBO29CQUFDWSxNQUFNLENBQUMsUUFBUSxFQUFFRixNQUFNRyxFQUFFLENBQUMsQ0FBQzs7d0JBQUU7d0JBQUVILE1BQU1JLEtBQUs7Ozs7Ozs7ZUFEM0NKLE1BQU1HLEVBQUU7Ozs7Ozs7Ozs7QUFNN0IiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9ub21hZGNvZGVyX25leHRqczE0Ly4vYXBwLyhIb21lKS9wYWdlLmpzPzc2NGQiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IExpbmsgZnJvbSBcIm5leHQvbGlua1wiO1xyXG5pbXBvcnQgeyBBUElfVVJMIH0gZnJvbSAnLi4vY29uZmlnJ1xyXG5cclxuYXN5bmMgZnVuY3Rpb24gZ2V0TW92aWVzKCl7XHJcbiAgICAvL2F3YWl0IG5ldyBQcm9taXNlKChyZXNvbHZlKSA9PiBzZXRUaW1lb3V0KHJlc29sdmUsIDEwMDApKTtcclxuICAgIGNvbnN0IHJlc3BvbnNlID0gYXdhaXQgZmV0Y2goQVBJX1VSTCk7XHJcbiAgICBjb25zdCBqc29uID0gYXdhaXQgcmVzcG9uc2UuanNvbigpO1xyXG4gICAgcmV0dXJuIGpzb247XHJcbn1cclxuXHJcbmV4cG9ydCBkZWZhdWx0IGFzeW5jIGZ1bmN0aW9uIEhvbWVQYWdlKCl7XHJcbiAgICBjb25zdCBtb3ZpZXMgPSBhd2FpdCBnZXRNb3ZpZXMoKTtcclxuICAgIHJldHVybiAoXHJcbiAgICA8ZGl2PlxyXG4gICAgICAgIHttb3ZpZXMubWFwKChtb3ZpZSkgPT4gKFxyXG4gICAgICAgICAgICA8bGkga2V5PXttb3ZpZS5pZH0+XHJcbiAgICAgICAgICAgICAgICA8TGluayBocmVmPXtgL21vdmllcy8ke21vdmllLmlkfWB9PiB7bW92aWUudGl0bGV9PC9MaW5rPlxyXG4gICAgICAgICAgICA8L2xpPlxyXG4gICAgICAgICkpfVxyXG4gICAgPC9kaXY+XHJcbiAgICApO1xyXG59Il0sIm5hbWVzIjpbIkxpbmsiLCJBUElfVVJMIiwiZ2V0TW92aWVzIiwicmVzcG9uc2UiLCJmZXRjaCIsImpzb24iLCJIb21lUGFnZSIsIm1vdmllcyIsImRpdiIsIm1hcCIsIm1vdmllIiwibGkiLCJocmVmIiwiaWQiLCJ0aXRsZSJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./app/(Home)/page.js\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
+/* harmony export */   __esModule: () => (/* binding */ __esModule),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
 
-/***/ }),
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`D:\GitHub\Nomadcoder_NextJs14\app\(Home)\page.js`)
 
-/***/ "(rsc)/./app/config.js":
-/*!***********************!*\
-  !*** ./app/config.js ***!
-  \***********************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+// Accessing the __esModule property and exporting $$typeof are required here.
+// The __esModule getter forces the proxy target to create the default export
+// and the $$typeof value is for rendering logic to determine if the module
+// is a client boundary.
+const { __esModule, $$typeof } = proxy;
+const __default__ = proxy.default;
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   API_URL: () => (/* binding */ API_URL)\n/* harmony export */ });\n// app/config.js\nconst API_URL = \"https://nomad-movies.nomadcoders.workers.dev/movies\";\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvY29uZmlnLmpzIiwibWFwcGluZ3MiOiI7Ozs7QUFBQSxnQkFBZ0I7QUFDVCxNQUFNQSxVQUFVLHNEQUFzRCIsInNvdXJjZXMiOlsid2VicGFjazovL25vbWFkY29kZXJfbmV4dGpzMTQvLi9hcHAvY29uZmlnLmpzPzU1YzAiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gYXBwL2NvbmZpZy5qc1xyXG5leHBvcnQgY29uc3QgQVBJX1VSTCA9IFwiaHR0cHM6Ly9ub21hZC1tb3ZpZXMubm9tYWRjb2RlcnMud29ya2Vycy5kZXYvbW92aWVzXCI7XHJcbiJdLCJuYW1lcyI6WyJBUElfVVJMIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(rsc)/./app/config.js\n");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`D:\GitHub\Nomadcoder_NextJs14\app\(Home)\page.js#default`));
+
 
 /***/ }),
 
